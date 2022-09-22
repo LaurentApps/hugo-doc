@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "LaurentApps.github.io/hugo-doc"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -7,6 +7,8 @@ theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"
+
+publishDir = "docs"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
